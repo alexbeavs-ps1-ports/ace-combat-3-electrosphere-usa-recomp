@@ -6,7 +6,9 @@ name = "Ace Combat 3: Electrosphere (USA)"
 id = "SLUS-00972"
 players = 1
 exe = "disc/SLUS_009.72"
-disc = ""
+disc = "disc/Ace Combat 3 - Electrosphere (USA).cue"
+discs = ["disc/Ace Combat 3 - Electrosphere (USA).cue"]
+disc_serials = ["SLUS-00972"]
 load_address = "0x80160000"
 entry_pc = "0x801761F8"
 text_size = "0x00077800"
@@ -30,11 +32,13 @@ known_crc32 = [
 ]
 
 [recompiler]
+bios_config = "psxrecomp/bios/SCPH1001.toml"
 seeds = "seeds/ghidra_funcs.txt"
 out_dir = "generated"
 strict = true
 
 [runtime]
+openbios = false
 window_title = "ace-combat-3-electrosphere-usa- Recompiled"
 memcard_dir = "saves"
 
