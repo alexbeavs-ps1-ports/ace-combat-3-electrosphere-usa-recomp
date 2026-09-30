@@ -1,3 +1,5 @@
+<p align="center"><a href="https://alexbeavs-ps1-ports.github.io/psxrecomp-ports/"><img src="https://raw.githubusercontent.com/alexbeavs-ps1-ports/psxrecomp-ports/main/docs/assets/alexbeav-ps1-recomps-banner.png" alt="Alexbeav's PS1 Recomps" width="100%"></a></p>
+
 # Ace Combat 3: Electrosphere (USA) Recompiled
 <!-- retcomm-readme-metrics -->
 [![GitHub downloads (all assets, all releases)](https://img.shields.io/github/downloads/Alexbeav/ace-combat-3-electrosphere-usa-recomp/total)](https://github.com/Alexbeav/ace-combat-3-electrosphere-usa-recomp/releases)
